@@ -498,6 +498,21 @@ export const ARTICLE_DATA = [
     }
   },
   {
+    id: 'a32',
+    common: {
+      category: ArticleCategory.DIT,
+      link: 'https://mp.weixin.qq.com/s/Y6gCrco6-Opw1PN0tPfGNQ',
+      coverImage: 'https://mmbiz.qpic.cn/mmbiz_png/MlWt1JT1F3LxU455SXLNd1xaXnASCSZVuIyRpsMiax3j8a3QINSiaay18O9bYJaq5I3p0rjicGsfZbDUqrX61f67rMIEQIsDZnDLAHyFbxUticc/640?wx_fmt=png&amp;from=appmsg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1#imgIndex=0',
+      date: '2026-03-10'
+    },
+    zh: {
+      title: '个人周报 | 26/03/02~26/03/08',
+    },
+    en: {
+      title: 'Weekly Report | 26/03/02~26/03/08',
+    }
+  },
+  {
     id: 'l1',
     common: {
       category: ArticleCategory.LUNA,
@@ -585,6 +600,21 @@ export const ARTICLE_DATA = [
     },
     en: {
       title: 'Mountains May Depart.',
+    }
+  },
+  {
+    id: 'af3',
+    common: {
+      category: ArticleCategory.AFTER8,
+      link: 'https://mp.weixin.qq.com/s/wYwsMdIf8M8mhgA0NMbtqg',
+      coverImage: 'https://mmbiz.qpic.cn/sz_mmbiz_png/MlWt1JT1F3LU0fB0AiahJPHtjLe6dTHiallM87gGUVE5B4rojNcQnAbA0g1uxXSCFTE07WXaCHybT305E2icGscic3A3vtscwCicwrC5FvU4n1icE/640?wx_fmt=png&amp;from=appmsg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1#imgIndex=0',
+      date: '2026-03-10'
+    },
+    zh: {
+      title: '为什么你喜欢看日出日落？',
+    },
+    en: {
+      title: 'Why Do You Love Sunrise and Sunset?',
     }
   },
   {
